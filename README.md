@@ -41,4 +41,5 @@ If you have a problem during setup, join our
 2. Edit [cogs/report/report.py](https://github.com/DevSingle/Discord-Report-Bot/blob/main/cogs/report/report.py) Line 13 For You Bot Prefix Change rb! | Line 24 For Report Send Message Channel ID And Role Id For Mention On New Report
 3. Run The Bot (:
 4. py main.py
+
 Join us on our [Discord Server](https://discord.gg/UpJJWG66BE)!
