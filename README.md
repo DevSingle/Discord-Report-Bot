@@ -30,6 +30,8 @@
 - [MacOS](https://github.com/DevSingle/Discord-Report-Bot/)
 - [Most major linux distributions](https://github.com/DevSingle/Discord-Report-Bot/)
 
+Install [NextCord](https://github.com/nextcord/nextcord)
+
 If you have a problem during setup, join our
 [Discord server](https://discord.gg/UpJJWG66BE)
 # setup
@@ -38,5 +40,5 @@ If you have a problem during setup, join our
 1. Edit [main.py](https://github.com/DevSingle/Discord-Report-Bot/blob/main/main.py) Line 8 For Bot Prefix And Line 35 For Bot Token | Check Line 19
 2. Edit [cogs/report/report.py](https://github.com/DevSingle/Discord-Report-Bot/blob/main/cogs/report/report.py) Line 13 For You Bot Prefix Change rb! | Line 24 For Report Send Message Channel ID And Role Id For Mention On New Report
 3. Run The Bot (:
-
+4. py main.py
 Join us on our [Discord Server](https://discord.gg/UpJJWG66BE)!
